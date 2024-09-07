@@ -51,6 +51,11 @@ export default function Page() {
         this parragraph is only to add more info for the course of git and
         github
       </div>
+
+      <div className="text-center">
+        this is another parragraph to add more info for the course of git and
+        github after the first parragraph created
+      </div>
     </main>
   );
 }
