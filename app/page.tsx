@@ -47,6 +47,10 @@ export default function Page() {
           />
         </div>
       </div>
+      <div className="text-center">
+        this parragraph is only to add more info for the course of git and
+        github
+      </div>
     </main>
   );
 }
